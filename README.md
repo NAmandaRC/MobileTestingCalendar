@@ -1,2 +1,1 @@
-# MobileTesting Project
- 
+# UCBMovileTesting
